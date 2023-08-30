@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaochon&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
@@ -25,7 +27,6 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋  
-Welcome to my github, this is Chong Shao!
+Welcome to my github, this is Chong(Camille) Shao!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaochon&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
